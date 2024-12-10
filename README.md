@@ -9,4 +9,4 @@ I have been working as a web developer for 2 years, and before that I was workin
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [bibekcdy@gmail.com](mailto:bibekcdy@gmail.com)
 * 🚀  I'm currently working on [Imark.com](http://Imark.com)
-* 🧠  I'm learning Angular and.Net and SQl as well
+* 🧠  I learned Angular and.Net and SQl as well and I'm currently working on a project
