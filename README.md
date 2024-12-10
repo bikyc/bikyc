@@ -1,28 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bibek Chaudhary
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Bibek Chaudhary</h1>
+<h3 align="center">I'm just a coder from Nepla</h3>
 
-Web Developer
--------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikyc&label=Profile%20views&color=0e75b6&style=flat" alt="bikyc" /> </p>
 
-I have been working as a web developer for 2 years, and before that I was working as a QA
+- 🔭 I’m currently working on **something cool**
 
-* 🌍  I'm based in Kathmandu, Nepal
-* ✉️  You can contact me at [bibekcdy@gmail.com](mailto:bibekcdy@gmail.com)
-* 🚀  I'm currently working on [Imark.com](http://Imark.com)
-* 🧠  I learned Angular and .Net and SQL as well and I'm currently working on a project
+- 🌱 I’m currently learning **.Net and Angular with Sql**
 
-### Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekchaudhary&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **bibekcdy@gmail.com**
 
-### Languages & Tools
-![Angular](https://img.shields.io/badge/-Angular-007acc?style=flat&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffcd00?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=white)
+- ⚡ Fun fact **I think I am funny**
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bibekchaudhary&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imbibekchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imbibekchaudhary/" height="30" width="40" /></a>
+<a href="https://medium.com/@bibekcdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bibekcdy" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikyc" alt="bikyc" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikyc&show_icons=true&locale=en&layout=compact" alt="bikyc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikyc&show_icons=true&locale=en" alt="bikyc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikyc&" alt="bikyc" /></p>
